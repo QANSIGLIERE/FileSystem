@@ -7,6 +7,10 @@ updating files.
 
 https://www.youtube.com/@QANSIGLIERE/
 
+## Support the project
+
+https://buymeacoffee.com/qansigliere
+
 ## Installation
 
 Using npm: `npm i qansigliere-fs-utils`
@@ -15,4 +19,6 @@ Using npm: `npm i qansigliere-fs-utils`
 
 -   `createFileFromString(fileName, stringValue)` - it allows to save any string information into a new file.
 
-## Improvements and Suggestions
+## Improvements & Suggestions
+
+https://forms.gle/GZbS9hw42tSYJxKL7
