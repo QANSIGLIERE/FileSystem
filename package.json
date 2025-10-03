@@ -1,6 +1,6 @@
 {
   "name": "qansigliere-fs-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The main idea of ​​this library, created in JavaScript, is to provide a ready-made set of methods for creating and updating files.",
   "main": "index.js",
   "scripts": {
