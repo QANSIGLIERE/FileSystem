@@ -17,8 +17,9 @@ Using npm: `npm i qansigliere-fs-utils`
 
 ## Functions
 
--   `createFileFromString(fileName, stringValue)` - it allows to save any string information into a new file.
--   `saveBase64AsImage(pngBase64String, pathToFile)` - it allows to save any Base64 string as a new .PNG file
+- `createFileFromString(fileName, stringValue)` - it allows to save any string information into a new file.
+- `saveBase64AsImage(pngBase64String, pathToFile)` - it allows to save any Base64 string as a new .PNG file
+- `fileExists(pathToFile)` - the function returns true if the provided file exists and false if it doesn't exist
 
 ## Improvements & Suggestions
 
