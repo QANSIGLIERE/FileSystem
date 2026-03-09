@@ -21,6 +21,7 @@ Using npm: `npm i qansigliere-fs-utils`
 - `saveBase64AsImage(pngBase64String, pathToFile)` - it allows to save any Base64 string as a new .PNG file
 - `fileExists(pathToFile)` - the function returns true if the provided file exists and false if it doesn't exist
 - `deleteFile(pathToFile)` - it allows to delete the specific file
+- `readFile(pathToFile, encoding)` - it allows to read the specific file
 
 ## Improvements & Suggestions
 
